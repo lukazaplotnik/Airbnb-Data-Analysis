@@ -14,9 +14,12 @@ In summary, my analysis consists of 3 parts:
 - find out how much extra one needs to pay on average for an apartment advertised (in the Airbnb title) as luxurious, spacious, modern, having a garden, being close to a canal, being a houseboat etc.
 
 ### File Descriptions:
-- The analysis was performed using Airbnb datasets that are publically available on the following website http://insideairbnb.com/get-the-data.html. The `listings` dataframe includes detailed data of all listings in Amsterdam, and the `review` dataframe collects the guest reviews. According to the website, both datasets have been compiled on July 8, 2019.
+The analysis was performed using [publicly available](http://insideairbnb.com/get-the-data.html) Airbnb datasets:
+- `listings` dataset that includes detailed data of all listings in Amsterdam,
+- and `reviews` dataset that collects all corresponding guest reviews since 2009.
+According to the website, both datasets have been compiled on July 8, 2019.
 
-- Airbnb Prices in Amsterdam.ipynb: Jupyter notebook with the project code, as well as all analyses, visualizations and conclusions
+Project code with all the analyses, visualizations and conclusions is stored in the Jupyter notebook (Airbnb Prices in Amsterdam.ipynb).
 
 ### Summary of results:
-The results of the analysis are best presented in the Medium article [link](https://medium.com/@lukazaplotnik/where-to-stay-in-amsterdam-airbnb-data-analysis-2b673758885e).
+The results of the analysis are best presented in the accompanying [Medium article](https://medium.com/@lukazaplotnik/where-to-stay-in-amsterdam-airbnb-data-analysis-2b673758885e).
